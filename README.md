@@ -53,11 +53,6 @@ https://www.markdownguide.org/cheat-sheet/
 |True  |True   |True  |
 |False |True   |False |
 
-#11- opciones
-- [x] Triangulo
-- [ ] Circulo
-- [ ] Rectangulo
-
 
 
 
